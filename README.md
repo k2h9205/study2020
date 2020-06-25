@@ -3,3 +3,12 @@
 ## H2
 
 1. TEST
+
+
+```sh
+git pull origin master
+```
+
+```sh
+git fetch
+```
