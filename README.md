@@ -12,3 +12,5 @@ git pull origin master
 ```sh
 git fetch
 ```
+
+수정
